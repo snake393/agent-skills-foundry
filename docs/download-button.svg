@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="30" viewBox="0 0 90 30" role="img" aria-label="Download">
+  <defs>
+    <linearGradient id="btnFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb547"/>
+      <stop offset="0.55" stop-color="#ff8a1e"/>
+      <stop offset="1" stop-color="#ef6c0a"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="89" height="29" rx="6" ry="6" fill="url(#btnFill)" stroke="#c85a08" stroke-width="1"/>
+  <rect x="2.5" y="2.5" width="85" height="9" rx="4.5" ry="4.5" fill="#ffffff" opacity="0.22"/>
+  <path d="M16.5 10.5 v9 m-4 -4.5 l4 4.5 4 -4.5" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="54" y="19.6" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8.6" font-weight="700" letter-spacing="1" fill="#ffffff">DOWNLOAD</text>
+</svg>
